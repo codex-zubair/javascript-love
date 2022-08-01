@@ -11,6 +11,4 @@ var apple = "five pice";
 var logo = "yes it's logo";
 
 
-
-
 console.log(book,apple,logo)
