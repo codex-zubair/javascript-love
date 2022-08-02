@@ -27,32 +27,3 @@ console.log(fruits)
 
 var mark = 10;
 
-
-
-if (mark >= 80) {
-    console.log("A grade")
-}
-
-else if (mark >= 70) {
-    console.log("B grade")
-}
-
-else if (mark >= 50) {
-    console.log("C grade")
-}
-else if (mark >= 40) {
-    console.log("D grade")
-}
-
-else if (mark = 40) {
-    console.log("failed")
-}
-
-else {
-    console.log("working")
-}
-
-
-
-
-
