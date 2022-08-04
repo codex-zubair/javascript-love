@@ -61,14 +61,14 @@ console.log(vagseshResult);
 
 
 // *String Catenation
-console.log("string1"+" "+"string2")
+console.log("string1" + " " + "string2")
 // *String Catenation
 
 
 
 
 // *Variable index//
-var apple = ["red","blue","green"]
+var apple = ["red", "blue", "green"]
 console.log(apple.indexOf("red"))
 // *Variable index//
 
@@ -78,7 +78,7 @@ console.log(apple.indexOf("red"))
 
 
 // *Variable length//
-var apple = ["red","blue","green"]
+var apple = ["red", "blue", "green"]
 console.log(apple.length)
 // *Variable length//
 
@@ -104,16 +104,13 @@ console.log(apple)
 
 // *Multiple condition Checking.
 
-if(11 == 11 && 32 == 22)
-{
+if (11 == 11 && 32 == 22) {
     console.log("yes i'm working")
 }
 
-else
-{
+else {
     console.log("sorry i'm not working")
 }
-
 
 
 
