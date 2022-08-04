@@ -1,0 +1,28 @@
+// display something 39 times
+// var x = 1
+
+// while (x <= 39) {
+//     console.log("i love you javaScript");
+//     console.log(x);
+//     x++;
+// }
+
+
+
+
+// Display something 58 to 98
+
+for (i = 1; i <= 100; i++) {
+    if (i < 58) {
+        continue
+    }
+
+    console.log("i love you javaScript " + i);
+    
+    if(i==98)
+    {
+        console.log("loop done");
+        stop
+    }
+
+}
