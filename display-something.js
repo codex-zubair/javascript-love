@@ -31,19 +31,43 @@
 // display all even number 412 to 556
 
 
-for (i = 0; i <= 600; i += 2) {
-    if (i < 412) {
+// for (i = 0; i <= 600; i += 2) {
+//     if (i < 412) {
+//         continue
+//     }
+
+
+
+
+//     if (i <= 556) {
+//         console.log(i + " I love you JavaScript");
+//     }
+
+//     if (i == 556) {
+//         stop
+//     }
+
+
+// }
+
+
+
+// Showing  all odd numbers 581 - 683
+
+
+for (i = -1; i <= 700; i += 2) {
+    if (i < 581) {
         continue
     }
 
 
 
 
-    if (i <= 556) {
+    if (i <= 683) {
         console.log(i + " I love you JavaScript");
     }
 
-    if (i == 556) {
+    if (i == 683) {
         stop
     }
 
