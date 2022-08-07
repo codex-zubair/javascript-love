@@ -1,6 +1,7 @@
 function secondLargestNumber(array) {
 
 
+    // Bubble short
     for (i = 0; i < array.length; i++) {
 
         //*Second loop that will sort the array value.
